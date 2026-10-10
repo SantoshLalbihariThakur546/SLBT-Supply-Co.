@@ -42,7 +42,7 @@ export default function App() {
         </Routes>
       </main>
       <footer className="border-t border-slate-200 py-8 text-center text-sm text-slate-400">
-        Northwind Supply Co. — demo storefront built on a concurrency-safe inventory API.
+        SLBT Supply Co. — demo storefront built on a concurrency-safe inventory API.
       </footer>
     </div>
   );
